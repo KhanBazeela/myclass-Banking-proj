@@ -1,0 +1,14 @@
+C:\Users\Lenovo\documents\GitHub\Banking-project\bin\Debug\net8.0\Banking-project.exe
+C:\Users\Lenovo\documents\GitHub\Banking-project\bin\Debug\net8.0\Banking-project.deps.json
+C:\Users\Lenovo\documents\GitHub\Banking-project\bin\Debug\net8.0\Banking-project.runtimeconfig.json
+C:\Users\Lenovo\documents\GitHub\Banking-project\bin\Debug\net8.0\Banking-project.dll
+C:\Users\Lenovo\documents\GitHub\Banking-project\bin\Debug\net8.0\Banking-project.pdb
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.AssemblyInfo.cs
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.dll
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\refint\Banking-project.dll
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.pdb
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\Banking-project.genruntimeconfig.cache
+C:\Users\Lenovo\documents\GitHub\Banking-project\obj\Debug\net8.0\ref\Banking-project.dll
