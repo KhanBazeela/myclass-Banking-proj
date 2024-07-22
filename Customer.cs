@@ -2,7 +2,7 @@ using System;
 
 namespace MyApplication
 {
-  class Customer : Users  // Derived class
+  class Customer : Users
   {
         
     public void withdraw(long account_no, long amount, int pin){

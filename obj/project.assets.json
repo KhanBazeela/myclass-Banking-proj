@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\documents\\GitHub\\Banking-project\\Banking-project.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\Banking-project.csproj",
       "projectName": "Banking-project",
-      "projectPath": "C:\\Users\\Lenovo\\documents\\GitHub\\Banking-project\\Banking-project.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\Banking-project.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\documents\\GitHub\\Banking-project\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

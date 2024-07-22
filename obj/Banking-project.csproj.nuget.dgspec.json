@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Documents\\GitHub\\Banking-project\\Banking-project.csproj": {}
+    "c:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\Banking-project.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Documents\\GitHub\\Banking-project\\Banking-project.csproj": {
+    "c:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\Banking-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Documents\\GitHub\\Banking-project\\Banking-project.csproj",
+        "projectUniqueName": "c:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\Banking-project.csproj",
         "projectName": "Banking-project",
-        "projectPath": "c:\\Users\\Lenovo\\Documents\\GitHub\\Banking-project\\Banking-project.csproj",
+        "projectPath": "c:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\Banking-project.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Documents\\GitHub\\Banking-project\\obj\\",
+        "outputPath": "c:\\Users\\Lenovo\\Documents\\GitHub\\myclass-Banking-proj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
