@@ -2,7 +2,7 @@ using System;
 
 namespace MyApplication
 {
-  class Users()
+  class Users
 {
   public string name;
   public long phone_no;
