@@ -20,3 +20,10 @@ c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\obj\Debug\net8.0\Banking-p
 c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\obj\Debug\net8.0\Banking-project.dll
 c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\obj\Debug\net8.0\refint\Banking-project.dll
 c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\obj\Debug\net8.0\Banking-project.pdb
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\bin\Debug\net8.0\Banking-project.exe
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\bin\Debug\net8.0\Banking-project.deps.json
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\bin\Debug\net8.0\Banking-project.runtimeconfig.json
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\bin\Debug\net8.0\Banking-project.dll
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\bin\Debug\net8.0\Banking-project.pdb
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\obj\Debug\net8.0\Banking-project.genruntimeconfig.cache
+c:\Users\Lenovo\Documents\GitHub\myclass-Banking-proj\obj\Debug\net8.0\ref\Banking-project.dll

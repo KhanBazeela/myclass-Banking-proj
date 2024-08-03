@@ -1,20 +1,27 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace MyApplication
+namespace Banking_System
 {
-  class Customer : Users
-  {
-        
-    public void withdraw(long account_no, long amount, int pin){
-     Console.WriteLine("Withdrawing Money...");
+    public class Customer
+    {
+        public string CustomerId { get; private set; }
+        public string Name { get; private set; }
+
+        public Customer(string customerId, string name)
+        {
+            CustomerId = customerId;
+            Name = name;
+        }
+
+        public override string ToString()
+        {
+            return $"Customer ID: {CustomerId}, Name: {Name}";
+        }
     }
-    
-    public void transfer(long account_no, long amount, int pin){
-     Console.WriteLine("Transfering Money...");
-    }
-    
-    public void checkBalance(long account_no, int pin){
-     Console.WriteLine("Checking Balance...");
-    }
-  }
+
+
 }
